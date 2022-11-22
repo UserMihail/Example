@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\bin\Debug\net6.0\Exemple_003_Sam.exe
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\bin\Debug\net6.0\Exemple_003_Sam.deps.json
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\bin\Debug\net6.0\Exemple_003_Sam.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\bin\Debug\net6.0\Exemple_003_Sam.dll
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\bin\Debug\net6.0\Exemple_003_Sam.pdb
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.dll
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\refint\Exemple_003_Sam.dll
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.pdb
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\Exemple_003_Sam.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Exemple_003_Sam\obj\Debug\net6.0\ref\Exemple_003_Sam.dll
