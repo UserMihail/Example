@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
