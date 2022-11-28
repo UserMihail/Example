@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.AssemblyInfo.cs
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\bin\Debug\net6.0\Example_0010_MethodArray.exe
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\bin\Debug\net6.0\Example_0010_MethodArray.deps.json
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\bin\Debug\net6.0\Example_0010_MethodArray.runtimeconfig.json
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\bin\Debug\net6.0\Example_0010_MethodArray.dll
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\bin\Debug\net6.0\Example_0010_MethodArray.pdb
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.dll
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\refint\Example_0010_MethodArray.dll
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.pdb
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\Example_0010_MethodArray.genruntimeconfig.cache
+C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_0010_MethodArray\obj\Debug\net6.0\ref\Example_0010_MethodArray.dll
