@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Examples\\Example_004_Div\\Example_004_Div.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ГигБрейнс\\2. Знакомство с языками рограммиорования\\Лекция _1\\Examples\\Example_004_Div\\Example_004_Div.csproj",
       "projectName": "Example_004_Div",
-      "projectPath": "C:\\Users\\User\\Desktop\\Examples\\Example_004_Div\\Example_004_Div.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\ГигБрейнс\\2. Знакомство с языками рограммиорования\\Лекция _1\\Examples\\Example_004_Div\\Example_004_Div.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Examples\\Example_004_Div\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ГигБрейнс\\2. Знакомство с языками рограммиорования\\Лекция _1\\Examples\\Example_004_Div\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
