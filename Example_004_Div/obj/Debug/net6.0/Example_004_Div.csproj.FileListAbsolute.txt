@@ -13,18 +13,3 @@ C:\Users\User\Desktop\Examples\Example_004_Div\obj\Debug\net6.0\refint\Example_0
 C:\Users\User\Desktop\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.pdb
 C:\Users\User\Desktop\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.genruntimeconfig.cache
 C:\Users\User\Desktop\Examples\Example_004_Div\obj\Debug\net6.0\ref\Example_004_Div.dll
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.AssemblyInfo.cs
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.dll
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\refint\Example_004_Div.dll
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.pdb
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\bin\Debug\net6.0\Example_004_Div.exe
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\bin\Debug\net6.0\Example_004_Div.deps.json
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\bin\Debug\net6.0\Example_004_Div.runtimeconfig.json
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\bin\Debug\net6.0\Example_004_Div.dll
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\bin\Debug\net6.0\Example_004_Div.pdb
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\Example_004_Div.genruntimeconfig.cache
-C:\Users\User\Desktop\ГигБрейнс\2. Знакомство с языками рограммиорования\Лекция _1\Examples\Example_004_Div\obj\Debug\net6.0\ref\Example_004_Div.dll
